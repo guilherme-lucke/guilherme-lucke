@@ -1,22 +1,8 @@
 # 👨‍💻 Guilherme Lucke 
 
-## Desenvolvedor Full Stack | Estudante de Engenharia de Computação
-
-📍 **Cornélio Procópio, PR** | 📧 **luckegg@outlook.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/guilherme-lucke/)**
-
----
-
-## 🚀 Sobre Mim
+**`Desenvolvedor Full Stack`**
 
 Sou um **desenvolvedor full stack** apaixonado por tecnologia e inovação, atualmente cursando **Engenharia de Computação na UTFPR** (7º semestre). Minha trajetória combina **desenvolvimento técnico** com **liderança operacional**, tendo evoluído de trainee a diretor em uma empresa júnior, onde liderei equipes e implementei processos de melhoria contínua.
-
-Busco oportunidades para aplicar minhas habilidades em **desenvolvimento web moderno**, **cloud computing** e **gestão de equipes** em projetos que gerem impacto real para pessoas e organizações.
-
-### 🎯 Atualmente Focado Em:
-- **Desenvolvimento Full Stack** com Node.js, React e Next.js
-- **Arquitetura em Nuvem** com AWS e containerização
-- **Liderança Técnica** e mentoria de desenvolvedores
-- **Engenharia de Dados** e análise para tomada de decisões
 
 ---
 
@@ -53,19 +39,12 @@ Busco oportunidades para aplicar minhas habilidades em **desenvolvimento web mod
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 🌱 Atualmente Aprendendo
+### **Explorando & Aprendendo**
 
 - **Testes Automatizados** (Jest, Testing Library)
 - **React Native** para desenvolvimento mobile
 - **Arquitetura de Microsserviços**
 - **Elixir** para sistemas distribuídos e alta concorrência
-
----
-
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
