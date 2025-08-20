@@ -29,8 +29,8 @@ Sou um **desenvolvedor full stack** apaixonado por tecnologia e inovação, atua
 
 ### 🌱 Explorando & Aprendendo
 
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📊 Estatísticas
 
