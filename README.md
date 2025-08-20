@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou um **desenvolvedor full stack** apaixonado por tecnologia e inovação, atualmente cursando **Engenharia de Computação na UTFPR** (7º semestre). Minha trajetória combina **desenvolvimento técnico** com **liderança operacional**, tendo evoluído de trainee a diretor em uma empresa júnior, onde liderei equipes e implementei processos de melhoria contínua.
+Sou um **desenvolvedor full stack** apaixonado por tecnologia e inovação, atualmente cursando **Engenharia de Computação na UTFPR** (8º semestre). Minha trajetória combina **desenvolvimento técnico** com **liderança operacional**, tendo evoluído de trainee a diretor em uma empresa júnior, onde liderei equipes e implementei processos de melhoria contínua.
 
 ---
 
